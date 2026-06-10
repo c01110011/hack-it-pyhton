@@ -6,3 +6,8 @@ each entry shows an exploitable implementation and its secure counterpart, with 
 uv venv
 source .venv/bin/activate
 ```
+
+## Entries
+
+### 01-pickle-deserialization
+
