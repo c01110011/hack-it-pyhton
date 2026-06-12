@@ -9,5 +9,6 @@ source .venv/bin/activate
 
 ## Entries
 
-### 01-pickle-deserialization
+### [01 - Pickle Deserialization](src/01-pickle-deserialization/explain.md)
+### [02 - Path Traversal](src/02-path-traversal/explain.md)
 
