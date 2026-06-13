@@ -12,4 +12,5 @@ source .venv/bin/activate
 ### [01 - Pickle Deserialization](src/01-pickle-deserialization/explain.md)
 ### [02 - Path Traversal](src/02-path-traversal/explain.md)
 ### [03 - Command Injection](src/03-command-injection/explain.md)
+### [04- SQL Injection](src/04-sql-injection/explain.md)
 
